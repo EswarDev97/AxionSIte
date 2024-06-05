@@ -29,7 +29,7 @@
                         <h2>We Care AI Business
                             to Made Great Success </h2>
                     </div>
-                    <p>Connection Point Technology is a foreseeing technical software design company; working towards a successful inhabitation of the latest AI & ML techniques in the Banking and Insurance Sector. The business of the firm is capably handled by a team of enthusiastic and talented people who together have many years of experience in the industry.</p>
+                    <p>Axion Technical services Pvt Ltd  is a foreseeing technical software design company; working towards a successful inhabitation of the latest AI & ML techniques in the Banking and Insurance Sector. The business of the firm is capably handled by a team of enthusiastic and talented people who together have many years of experience in the industry.</p>
 
                     <p>This experience, expertise and a willingness to ‘go the extra mile’ is what gives our firm the competitive edge in dealing with the needs of our clients.</p>
 
@@ -61,7 +61,7 @@
     </div>
 </section><!--====== End About Section ======-->
 <!--====== Start History Section ======-->
-<section class="history-style-one pb-120">
+<section class="history-style-one pb-120"  id="our-mission">
     <div class="container">
         <div class="history-wrapper">
             <div class="row no-gutters">
@@ -158,46 +158,49 @@
     </div>
 </section>
 ====== End Service Section ======-->
-<!--====== Start Service Section ======
-<section class="clients-area clients-style-two mt-minus-100">
+<!--====== Start Service Section ======-->
+<section class="clients-area clients-style-two mt-minus-100" id="clients">
+    <div  class="page-title-text text-center" >
+    <h3>Clients</h3>
+    </div>
     <div class="container">
         <div class="clients-wrapper bg_cover" style="background-image: url(assets/images/bg/sponsor-bg-2.jpg);">
             <div class="clients-slider-two">
                 <div class="client-item">
                     <div class="client-img">
-                        <img src="{{ url('assets/images/clients/07.png') }}" alt="clients image">
+                        <img src="{{ url('assets/images/clients/tata.png') }}" alt="clients image">
                     </div>
                 </div>
                 <div class="client-item">
                     <div class="client-img">
-                        <img src="{{ url('assets/images/clients/08.png') }}" alt="clients image">
+                        <img src="{{ url('assets/images/clients/sbi.png') }}" alt="clients image">
                     </div>
                 </div>
                 <div class="client-item">
                     <div class="client-img">
-                        <img src="{{ url('assets/images/clients/09.png') }}" alt="clients image">
+                        <img src="{{ url('assets/images/clients/iffco.png') }}" alt="clients image">
                     </div>
                 </div>
                 <div class="client-item">
                     <div class="client-img">
-                        <img src="{{ url('assets/images/clients/10.png') }}" alt="clients image">
+                        <img src="{{ url('assets/images/clients/raheja.png') }}" alt="clients image">
                     </div>
                 </div>
                 <div class="client-item">
                     <div class="client-img">
-                        <img src="{{ url('assets/images/clients/11.png') }}" alt="clients image">
+                        <img src="{{ url('assets/images/clients/kotak.png') }}" alt="clients image">
                     </div>
                 </div>
                 <div class="client-item">
                     <div class="client-img">
-                        <img src="{{ url('assets/images/clients/08.png') }}" alt="clients image">
+                        <img src="{{ url('assets/images/clients/digit.png') }}" alt="clients image">
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-====== End Service Section ======-->
+<!--====== End Service Section ======-->
 <!--====== Start Team Section ======
 <section class="team-area team-style-two pt-130 pb-100">
     <div class="container">

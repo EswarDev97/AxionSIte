@@ -103,7 +103,7 @@
                             Productivity Platform 
                             for Complex Data</h2>
                     </div>
-                    <p>Connection Point Technology is a strong consultancy and a professional IT service provider to help organizations to sink with the latest global technologies into their product and services. We offer consulting, full time project support and comprehensive training to help our customers meet their business goals through cloud automation and transformation.</p>
+                    <p>Axion Technical services Pvt Ltd  is a strong consultancy and a professional IT service provider to help organizations to sink with the latest global technologies into their product and services. We offer consulting, full time project support and comprehensive training to help our customers meet their business goals through cloud automation and transformation.</p>
                     <a href="{{ url('corporate#about-us') }}" class="main-btn">learn more us</a>
                 </div>
             </div>
@@ -130,7 +130,7 @@
                     </div>
                     <div class="text">
                         <h3 class="text-underline">Data Preparation</h3>
-                        <p>Connection Point provides connectors to over 25 leading data sources on-premise and in the cloud.</p>
+                        <p>Axion Technical services provides connectors to over 25 leading data sources on-premise and in the cloud.</p>
                     </div>
                 </div>
             </div>
@@ -141,7 +141,7 @@
                     </div>
                     <div class="text">
                         <h3 class="text-underline">Visualization</h3>
-                        <p>Connection Point facilitates robust statistical analysis, including univariate and bivariate analysis.</p>
+                        <p>Axion Technical services facilitates robust statistical analysis, including univariate and bivariate analysis.</p>
                     </div>
                 </div>
             </div>
@@ -152,7 +152,7 @@
                     </div>
                     <div class="text">
                         <h3 class="text-underline">Machine Learning</h3>
-                        <p>Connection Point AutoML uses leading algorithms and frameworks that is an easy to use. </p>
+                        <p>Axion Technical services AutoML uses leading algorithms and frameworks that is an easy to use. </p>
                     </div>
                 </div>
             </div>
@@ -163,7 +163,7 @@
                     </div>
                     <div class="text">
                         <h3 class="text-underline">DataOps</h3>
-                        <p>Connection Point provides better visual flow, data quality and advanced automation. </p>
+                        <p>Axion Technical services provides better visual flow, data quality and advanced automation. </p>
                     </div>
                 </div>
             </div>
@@ -174,7 +174,7 @@
                     </div>
                     <div class="text">
                         <h3 class="text-underline">MLOps</h3>
-                        <p>Connection Point automation nodes are production nodes with advanced automation capabilities.</p>
+                        <p>Axion Technical services automation nodes are production nodes with advanced automation capabilities.</p>
                     </div>
                 </div>
             </div>
@@ -185,7 +185,7 @@
                     </div>
                     <div class="text">
                         <h3 class="text-underline">Analytic Apps</h3>
-                        <p>Connection Point makes it easy to create project dashboards and share them with business users.</p>
+                        <p>Axion Technical services makes it easy to create project dashboards and share them with business users.</p>
                     </div>
                 </div>
             </div>

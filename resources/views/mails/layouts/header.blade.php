@@ -246,7 +246,7 @@
             <div class="inner-container">
                 <div class="header clearfix">
                     <div class="float-left">
-                        <img src="{{ url('assets/images/logo/logo-sm.png') }}" alt="logo">
+                        <img src="{{ url('assets/images/logo/axion.jpg') }}" alt="logo">
                     </div>
                 </div>
             

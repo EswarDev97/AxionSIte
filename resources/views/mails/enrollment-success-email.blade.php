@@ -90,7 +90,7 @@
                             <b>Thank You,</b>
                         </p>
                         <p>
-                            <b>Connection Point Technology</b>
+                            <b>Axion Technical services Pvt Ltd </b>
                         </p>
                     </div>      
                 </div>

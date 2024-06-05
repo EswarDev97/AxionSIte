@@ -15,7 +15,10 @@ class ServicesController extends Controller
     {
         return view('services.data-analytics');
     }
-
+    public function preacceptanceInspection()
+    {
+        return view('services.pre-acceptance-Inspection');
+    }
     public function imageRecognition()
     {
         return view('services.image-recognition');
@@ -24,5 +27,9 @@ class ServicesController extends Controller
     public function AnomalyDetection()
     {
         return view('services.anomaly-detection');
+    }
+    public function valuation()
+    {
+        return view('services.valuation');
     }
 }

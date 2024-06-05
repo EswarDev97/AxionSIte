@@ -26,7 +26,7 @@
             <div class="col-lg-6">
                 <div class="brand-logo text-center mb-100">
                     <a href="{{ (Route::has('home')) ? route('home') : 'not-found' }}"><img src="{{ url('assets/images/logo/contact-logo.png') }}" alt="contact logo"></a>
-                    <h2 class="pt-10"> Connection Point Technology </h2>
+                    <h2 class="pt-10"> Axion Technical services  </h2>
                 </div>
             </div>
         </div>
@@ -40,8 +40,8 @@
                                     <i class="flaticon-map"></i>
                                 </div>
                                 <div class="text">
-                                    <h5>Dubai</h5>
-                                    <p>Churchill Tower, Door No: 1015, 10th Floor, Business Bay, Dubai, UAE</p>
+                                    <h5>chennai</h5>
+                                    <p>806, 48th Cross St, Valmiki Nagar, Thiruvalluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041</p>
                                 </div>
                             </div>
                         </div>
@@ -52,7 +52,7 @@
                                 </div>
                                 <div class="text">
                                     <h5>Email Address</h5>
-                                    <p><a href="mailto:support@cp.technology.com">support@cp.technology</a></p>
+                                    <p><a href="mailto:arul.ramdoss@axionpcs.in">arul.ramdoss@axionpcs.in</a></p>
                                 </div>
                             </div>
                         </div>
@@ -63,7 +63,7 @@
                                 </div>
                                 <div class="text">
                                     <h5>Our Hotlines</h5>
-                                    <p><span>Phone :</span><a href="tel:+04 576 4488">+04 576 4488</a></p>
+                                    <!-- <p><span>Phone :</span><a href="tel:+04 576 4488">+04 576 4488</a></p> -->
                                 </div>
                             </div>
                         </div>
@@ -77,7 +77,7 @@
 <!--====== Start Map section ======-->
 <section class="contact-page-map">
     <div class="map-box">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.662777188197!2d55.260730114326854!3d25.180862038543882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f691734dcb8e3%3A0x6fcb61d5d7faa66b!2sChurchill%20Executive%20Tower!5e0!3m2!1sen!2sin!4v1657090990938!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.9177289810827!2d80.2579606738104!3d12.977113714759913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525d449ac80581%3A0x8d8f6d9b5afa7689!2sAxion%20Technical%20Services%20Private%20Limited!5e0!3m2!1sen!2sin!4v1717503543850!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </section><!--====== End Map section ======-->
 <!--====== Start Contact Section ======-->
