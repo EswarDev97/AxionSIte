@@ -9,7 +9,7 @@
             <div class="" id="priv1">
                 <h5>Effective Date: July 01, 2022</h5>
                 <div class="text-justify mt-5">
-                    This privacy policy is an agreement between Connection Point Technology ("Connection Point Technology", "us", "we" or "our", CPT) and you ("User", "you" or "your"). This Agreement sets forth the general terms and conditions of your use of the cp.technology website and any of its products or services (collectively, "Website" or "Services").
+                    This privacy policy is an agreement between Axion Technical services Pvt Ltd ("Axion Technical services Pvt Ltd", "us", "we" or "our", CPT) and you ("User", "you" or "your"). This Agreement sets forth the general terms and conditions of your use of the cp.technology website and any of its products or services (collectively, "Website" or "Services").
                 </div>
                 <h4 class="mt-5">1. Introduction</h4>
                 <div class="text-justify">
@@ -51,7 +51,7 @@
                         <li>verify compliance with the terms and conditions governing the use of the website (including monitoring private messages sent through our website private messaging service); and</li>
                         <li>other uses.</li>
                     </ul>
-                    <p>Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us. We will not, without your express consent, provide your personal information to any third parties for the purpose of direct marketing. All our website credit card financial transactions are handled through our payment services provider, Telr. You can review their privacy policy at https://telr.com/sa-en/legal/privacy-policy/. We will share information with Telr only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds. Connection Point Technology will neither store any debit/credit card details of users nor pass any debit/credit card details to third parties.</p>
+                    <p>Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us. We will not, without your express consent, provide your personal information to any third parties for the purpose of direct marketing. All our website credit card financial transactions are handled through our payment services provider, Telr. You can review their privacy policy at https://telr.com/sa-en/legal/privacy-policy/. We will share information with Telr only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds. Axion Technical services will neither store any debit/credit card details of users nor pass any debit/credit card details to third parties.</p>
                 </div>
             </div>
             <div>
@@ -79,7 +79,7 @@
                 <div class="text-justify">
                     <p>We will take reasonable technical and organizational precautions to prevent the loss, misuse, or alteration of your personal information. We will store all the personal information you provide on our secure (password- and firewall-protected) servers.</p>
                     <p>All electronic transactions entered via the website will be protected by encryption technology.</p>
-                    <p>You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. Connection Point Technology takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies. However, Connection Point Technology cannot guarantee the security of any information that is disclosed online.</p>
+                    <p>You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. Axion Technical services takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies. However, Axion Technical services cannot guarantee the security of any information that is disclosed online.</p>
                 </div>											
             </div>
             <div>
@@ -129,12 +129,12 @@
             <div>
                 <h5 class="mt-5" id="priv18">14. Trust and Safety</h5>
                 <div class="text-justify">
-                    Connection Point Technology takes the trust and security every one of its clients genuinely. We don't permit content that advances misuse, misrepresentation, MLM/network promoting, employment opportunities that charge expenses, self destruction, self-hurt, or is expected to stun or appall clients. Severe move is made against such substance and with individuals posting such messages/content in the app.
+                    Axion Technical services takes the trust and security every one of its clients genuinely. We don't permit content that advances misuse, misrepresentation, MLM/network promoting, employment opportunities that charge expenses, self destruction, self-hurt, or is expected to stun or appall clients. Severe move is made against such substance and with individuals posting such messages/content in the app.
                 </div>
             </div>
             <div>
                 <h5 class="mt-5" id="priv19">15. Disclaimer</h5>
-                <div class="text-justify">Connection Point Technology doesn't hold any liability regarding any occurrence, extortion, cheat, or wrongdoing that might happen to any clients. We encourage you to check and confirm data of different clients prior to continuing with any exchanges or cooperation among clients. Likewise, don't share your private data, to forestall the utilization of such data for any un-safe purposes.</div>
+                <div class="text-justify">Axion Technical services doesn't hold any liability regarding any occurrence, extortion, cheat, or wrongdoing that might happen to any clients. We encourage you to check and confirm data of different clients prior to continuing with any exchanges or cooperation among clients. Likewise, don't share your private data, to forestall the utilization of such data for any un-safe purposes.</div>
                 <div class="text-justify mt-3">At the point when you see something unseemly or go over a culpable substance, please report to us on the links provided in the app. The administrators will immediately take necessary actions on the same.</div>
             </div>
             <div>

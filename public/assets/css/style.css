@@ -7428,7 +7428,9 @@ textarea.form_control{
 =========================---*/
 
 .brand-logo img {
-    padding: 8px;
+    padding: 6px;
+    width: 85px;
+    height: 95px;
 }
 
 .bg-light-grey {

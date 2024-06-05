@@ -9,7 +9,7 @@
             <div class="col-lg-12 col-sm-12 mx-auto">
                 <h5>Effective Date: July 01, 2022</h5>
                 <div class="text-justify mt-5">
-                    These terms and conditions ("Terms", "Agreement") are an agreement between Connection Point Technology ("Connection Point Technology", "us", "we" or "our", CPT) and you ("User", "you" or "your"). This Agreement sets forth the general terms and conditions of your use of the cp.technology website and any of its products or services (collectively, "Website" or "Services").
+                    These terms and conditions ("Terms", "Agreement") are an agreement between Axion Technical services Pvt Ltd ("Axion Technical services Pvt Ltd", "us", "we" or "our", CPT) and you ("User", "you" or "your"). This Agreement sets forth the general terms and conditions of your use of the cp.technology website and any of its products or services (collectively, "Website" or "Services").
                 </div>
             </div>
             <div id="priv1" class="col-lg-12 col-sm-12 mx-auto">
@@ -27,7 +27,7 @@
                     <p class="pb-0 mb-2"><strong>SERVICE CHARGE</strong> means Connection Point's fees and charges to perform the Services which are calculated depending on the size of the Premises.</p>
                     <p class="pb-0 mb-2"><strong>TERM</strong> means the period from the Commencement Date that the Customer requires/purchases Services from Connection Point until completion.</p>
                     <p class="pb-0 mb-2"><strong>UAE</strong> means United Arab Emirates.</p>
-                    <p class="pb-0 mb-2"><strong>“Connection Point Technology”</strong> maintains the https://cp.technology/ Website ("Site").</p>
+                    <p class="pb-0 mb-2"><strong>“Axion Technical services ”</strong> maintains the https://axionpcs.in/ Website ("Site").</p>
                     <p class="pb-0 mb-2">"We will not trade with or provide any services to OFAC (Office of Foreign Assets Control) and sanctioned countries in accordance with the law of UAE".</p>
                     <p class="pb-0 mb-2"><strong>“United Arab of Emirates</strong> is our country of domicile” and stipulate that the governing law is the local law. All disputes arising in connection therewith shall be heard only by a court of competent jurisdiction in U.A.E.</p>                                                
                 </div>                                                                                      
@@ -87,7 +87,7 @@
             </div>
 
             <div id="priv4" class="col-lg-12 col-sm-12 mx-auto">
-                <h3 class="mt-5 mb-3 box-header">4. Connection Point Technology Responsibilities</h3>
+                <h3 class="mt-5 mb-3 box-header">4. Axion Technical services  Responsibilities</h3>
                 <div class="text-justify"> 
                     <p class="pb-0 mb-3"> In the event that Services cannot be performed due to adverse weather conditions, Connection Point will reschedule the Services at no additional cost to the Customer.
                     </p>                                                
@@ -101,7 +101,7 @@
                         <strong>5.1</strong> Customer is responsible for its secure use of the Services, including securing its account authentication credentials, protecting the security of Customer Data when in transit to and from the Services and taking any appropriate steps to securely encrypt or backup any Customer Data uploaded to the Services.
                     </p>
                     <p class="pb-0 mb-3">
-                        <strong>5.2</strong> Customers are prohibited from disclosing or duplicating the confidential information, ideas, files and database of Connection Point Technology to any of their non-employees except when there is a business need to do so. Violations may also result in legal action according to the severity.
+                        <strong>5.2</strong> Customers are prohibited from disclosing or duplicating the confidential information, ideas, files and database of Axion Technical services  to any of their non-employees except when there is a business need to do so. Violations may also result in legal action according to the severity.
                     </p>
                 </div>
             </div>
@@ -116,7 +116,7 @@
                         <strong>6.2</strong> Either Party may terminate the Agreement upon the provision of thirty (30) days' written notice to the other. Should the Customer not want the Services to continue throughout the thirty-day notice period, Services can be discontinued however, the Customer shall still be charged for a total of 1 month's payment, or the full value of services in the quarterly period on which the final day of services falls, whichever is greater.
                     </p>
                     <p class="pb-0 mb-3">
-                        <strong>6.3</strong> In the event of termination of the Agreement, any refund or part refund for Services not yet provided or not properly performed shall be at Connection Point's discretion and shall, in any event, exclude the value of materials purchased by Connection Point for the provision of Services. There is no refund policy. Any payment made towards the Connection Point Technology will not be refunded.
+                        <strong>6.3</strong> In the event of termination of the Agreement, any refund or part refund for Services not yet provided or not properly performed shall be at Connection Point's discretion and shall, in any event, exclude the value of materials purchased by Connection Point for the provision of Services. There is no refund policy. Any payment made towards the Axion Technical services  will not be refunded.
                     </p>
                     <p class="pb-0 mb-3">
                         <strong>6.4</strong> The termination of this Agreement shall be without prejudice to any rights that have accrued to either Party prior to the date of termination.

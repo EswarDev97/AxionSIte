@@ -1,7 +1,7 @@
 @extends('mails.layouts.main')
 @section('mail-body')
     <div class="bg-blue text-white user-info">
-        <p>Hi Connection Point Technology, </p>
+        <p>Hi Axion Technical services  , </p>
     </div>  
 
     <div class="bg-white mail-content">
@@ -21,6 +21,6 @@
             <dd>{{ @$data['email'] }}</dd>
         </div>
         <p class="mail-end margin-0">Regards, </p>
-        <p class="margin-0">Connection Point Technology.</p>
+        <p class="margin-0">Axion Technical services Pvt Ltd .</p>
     </div>
 @endsection

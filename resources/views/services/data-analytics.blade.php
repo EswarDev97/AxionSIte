@@ -20,6 +20,7 @@
         </div>
     </div>
 </section><!--====== End Hero Section ======-->
+
 <section class="service-area service-style-four pt-90 pb-130">
     <div class="container">
         <div class="row justify-content-center">
@@ -38,7 +39,7 @@
                     </div>
                     <div class="text">
                         <h3 class="title">Data Preparation</h3>
-                        <p>Connection Point provides connectors to over 25 leading data sources on-premise and in the cloud.</p>
+                        <p>Axion Technical services provides connectors to over 25 leading data sources on-premise and in the cloud.</p>
                         <!-- <a href="{{ (Route::has('data-preparation')) ? route('data-preparation') : 'not-found' }}" class="btn-link">read more</a> -->
                     </div>
                 </div>
@@ -50,7 +51,7 @@
                     </div>
                     <div class="text">
                         <h3 class="title">Visualization</h3>
-                        <p>Connection Point facilitates robust statistical analysis, univariate and bivariate analysis.</p>
+                        <p>Axion Technical services facilitates robust statistical analysis, univariate and bivariate analysis.</p>
                         <!-- <a href="{{ (Route::has('visualization')) ? route('visualization') : 'not-found' }}" class="btn-link">read more</a> -->
                     </div>
                 </div>
@@ -62,7 +63,7 @@
                     </div>
                     <div class="text">
                         <h3 class="title">Machine Learning</h3>
-                        <p>Connection Point AutoML uses leading algorithms and frameworks that is an easy to use. </p>
+                        <p>Axion Technical services AutoML uses leading algorithms and frameworks that is an easy to use. </p>
                         <!-- <a href="{{ (Route::has('machine-learning')) ? route('machine-learning') : 'not-found' }}" class="btn-link">read more</a> -->
                     </div>
                 </div>
@@ -74,7 +75,7 @@
                     </div>
                     <div class="text">
                         <h3 class="title">DataOps</h3>
-                        <p>Connection Point provides better visual flow, data quality and advanced automation. </p>
+                        <p>Axion Technical services provides better visual flow, data quality and advanced automation. </p>
                         <!-- <a href="{{ (Route::has('dataops')) ? route('dataops') : 'not-found' }}" class="btn-link">read more</a> -->
                     </div>
                 </div>
@@ -86,7 +87,7 @@
                     </div>
                     <div class="text">
                         <h3 class="title">MLOps</h3>
-                        <p>Connection Point automation nodes are production nodes with advanced automation capabilities.</p>
+                        <p>Axion Technical services automation nodes are production nodes with advanced automation capabilities.</p>
                         <!-- <a href="{{ (Route::has('mlops')) ? route('mlops') : 'not-found' }}" class="btn-link">read more</a> -->
                     </div>
                 </div>
@@ -98,7 +99,7 @@
                     </div>
                     <div class="text">
                         <h3 class="title">Analytic Apps</h3>
-                        <p>Connection Point makes it easy to create project dashboards and share them with business users.</p>
+                        <p>Axion Technical services makes it easy to create project dashboards and share them with business users.</p>
                         <!-- <a href="{{ (Route::has('analytic-apps')) ? route('analytic-apps') : 'not-found' }}" class="btn-link">read more</a> -->
                     </div>
                 </div>

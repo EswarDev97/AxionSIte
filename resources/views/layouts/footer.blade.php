@@ -47,10 +47,10 @@
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="widget about-widget mb-40">
                         <div class="logo mb-15 text-center">
-                            <a href="{{ (Route::has('home')) ? route('home') : 'not-found' }}"><img src="{{ url('assets/images/logo/logo-2.png') }}" alt="Theme Logo"></a>
+                        <a href="{{ (Route::has('home')) ? route('home') : 'not-found' }}" class="brand-logo"><img src="{{ url('assets/images/logo/axion-logo.png') }}" alt="Site Logo"></a>
                         </div>
                         <div class="about-content">
-                            <p>Connection Point Technology is a foreseeing technical software design company; working towards a successful inhabitation of the latest AI & ML techniques in the Banking and Insurance Sector.</p>
+                            <p>Axion Technical services Pvt Ltd is a foreseeing technical software design company; working towards a successful inhabitation of the latest AI & ML techniques in the Banking and Insurance Sector.</p>
                         </div>
                     </div>
                 </div>
@@ -80,7 +80,6 @@
                             <li><a href="{{ (Route::has('corporate')) ? route('corporate') : 'not-found' }}">Corporate</a></li>
                             <li><a href="{{ (Route::has('products')) ? route('products') : 'not-found' }}">Products</a></li>
                             <li><a href="{{ (Route::has('services')) ? route('services') : 'not-found' }}">Services</a></li>
-                            <li><a href="{{ (Route::has('cp-academy')) ? route('cp-academy') : 'not-found' }}">CP Academy</a></li>
                             <!-- <li><a href="{{ (Route::has('news-and-events')) ? route('news-and-events') : 'not-found' }}">News & Events</a></li> -->
                             <li><a href="{{ (Route::has('privacy')) ? route('privacy') : 'not-found' }}">Privacy</a></li>
                             <li><a href="{{ (Route::has('terms')) ? route('terms') : 'not-found' }}">Terms</a></li>
@@ -91,9 +90,8 @@
                     <div class="widget footer-nav-widget mb-40">
                         <h4 class="widget-title text-underline">Contact Details</h4>
                         <ul class="footer-nav list-style-dot list-style-none">
-                            <li class="text-nowrap"><i class="far fa-envelope"></i><span><a href="mailto:support@cp.technology.com">support@cp.technology</a></span></li>
-                            <li><i class="far fa-phone"></i><span><a href="tel:+04 576 4488">04 576 4488</a></span></li>
-                            <li class="position-relative"><i class="far fa-map-marker-alt"></i><span class="footer-address">1015, Churchill Tower, Business Bay, Dubai, UAE</span></li>
+                            <li class="text-nowrap"><i class="far fa-envelope"></i><span><a href="mailto:support@cp.technology.com">arul.ramdoss@axionpcs.in</a></span></li>
+                            <li class="position-relative"><i class="far fa-map-marker-alt"></i><span class="footer-address">Plot No : 6234, TNHB Layout Ayapakkam Tamil Nadu, Chennai – 600077.</span></li>
                         </ul>
                     </div>
                 </div>
@@ -112,7 +110,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="text-center">
-                        <p>Copyright &copy; {{ date('Y') }} CP Technology. All Right Reserved</p>
+                        <p>Copyright &copy; {{ date('Y') }}  Axionpcs. All Right Reserved</p>
                     </div>
                 </div>
                 <div class="col-md-4">
